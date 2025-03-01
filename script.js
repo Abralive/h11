@@ -1,4 +1,4 @@
-const images = ['imgs\\m.png', 'imgs\\f.png', 'imgs\\r.png'];
+const images = ['imgs/m.png', 'imgs/f.png', 'imgs/r.png'];
 let currentIndex = 0;
 
 const sliderImage = document.getElementById('sliderImage');
